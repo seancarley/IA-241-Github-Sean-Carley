@@ -38,7 +38,7 @@ my_tweet = {
             "coordinates": (-75, 40), 
             "entities": 
                 {"hashtags": 
-                    ["Preds", "Pens", "SingIntoSpring"]}  
+                    ["Preds", "Pens", "SingIntoSummer"]}  
             }
 result = 0
 for hashtag in my_tweet['entities']['hashtags']:
